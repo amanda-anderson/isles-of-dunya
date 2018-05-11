@@ -1,4 +1,4 @@
-# Unity_Scripts
+Unity_Scripts
 A collection of simple C# scripts I've used in my Unity projects.
 
 DestroyerScript     : destroys target object when upon collision with Player + adds to score
