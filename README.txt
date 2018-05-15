@@ -7,5 +7,8 @@ PlayerOnMovingLedge : handles physics for when Player steps onto moving ledge
 RespawnScript       : when Player falls off; triggers respawn to beginning of level
 SignTrigger         : triggers animation for close-up of sign when Player is close enough
 
-View Level 1 :
+Level 1 Play-through Video :
 https://www.youtube.com/watch?v=DTBmSJ3MSu8
+
+Download :
+https://amanderson.itch.io/isles-of-dunya
